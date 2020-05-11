@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/Moterius/Moterius.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Moterius, and I am trying to bring my creations to all of you. That includes games as well as stories.
+I am working under my online name on  [Fimfiction](https://www.fimfiction.net/user/339279/Moterius), [Fanfiction](https://www.fanfiction.net/~Moterius) and [Github](https://github.com/Moterius/), but I will not create accounts on Facebook, Twitter or Instagramm. If there are some under my name, they are false.
+Also, on the wattpad website, someone probably from russia (because when I enter my name it turns the website russian) took my name, that's why I'm using the name thatMoterius there.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moterius/Moterius.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Stories
+I'm currently working on both Pokemon and pony (MLP:FIM) stories.
+## Games
+The game I am currently working on is 'NightmareNightmare', in which you replay the events of MLP:FIM season 1 episode 1&2 as the infamous Nightmare Moon. A 'proof of concept' draft that has roughly twenty-five minutes of gameplay can be found [here](https://drive.google.com/open?id=1Rlbae4A5LZHAxYVfPypj7UCcZMwkKVus).
+Please note that this is not the prototype of the game itself, but rather a sort-of playtest for concepts and the engine.
